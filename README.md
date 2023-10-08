@@ -1,4 +1,4 @@
 # Leo
 this is my first repo
 <br>
-Author is Sumukh
+Author is Sumukh Gundigit status
